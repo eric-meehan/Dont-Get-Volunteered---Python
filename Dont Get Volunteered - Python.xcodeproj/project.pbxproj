@@ -22,6 +22,7 @@
 		0714DA832566E2CC007B4068 /* Dont Get Volunteered - Python */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Dont Get Volunteered - Python"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0714DA8F2566E2E6007B4068 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		0714DA902566E2F1007B4068 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0714DA922566E943007B4068 /* ChessBoard.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ChessBoard.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				0714DA8F2566E2E6007B4068 /* main.py */,
+				0714DA922566E943007B4068 /* ChessBoard.py */,
 				0714DA902566E2F1007B4068 /* README.md */,
 			);
 			path = "Dont Get Volunteered - Python";
