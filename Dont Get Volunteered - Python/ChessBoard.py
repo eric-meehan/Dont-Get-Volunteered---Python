@@ -1,12 +1,12 @@
 """
  Eric Meehan
- 2020-11-18
+ 2020-11-19
  
  Class representation of a chess board that can be of any size
  """
  
  class ChessBoard():
-    __init__(self, Length, Width):
+    def __init__(self, Length, Width):
         # Initialize a chess board to the provided length and width
         self.Length = Length
         self.Width = Width
